@@ -3,7 +3,6 @@
 
 Class assignment designed to create and inventory and tracking system using Python and IDLE.
 
-Anyone who watches the play the game can use this application. 
 
 ## Acknowledgements
 
