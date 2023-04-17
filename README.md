@@ -3,14 +3,10 @@
 
 Class assignment designed to create and inventory and tracking system using Python and IDLE.
 
-
 ## Acknowledgements
 
  - [Bryant Moscon] Instructor, University of Massachusetts - Lowell
- - [Eric Matthes]Python Crash Course, 2nd Edition, A Hands-On,
-Project-Based Introduction to Programming
- - 
-
+ - [Eric Matthes]Python Crash Course, 2nd Edition, A Hands-On Project-Based Introduction to Programming
 
 ## Authors
 
